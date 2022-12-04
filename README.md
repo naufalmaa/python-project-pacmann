@@ -35,3 +35,9 @@ Disclaimer: saya sadar sebagai sosok yang masih belajar, tentu masih jauh dari k
 
 # Test Case
     Tentunya, program ini telah harus diujicoba dan dievaluasi untuk bisa dioperasikan dengan baik oleh customernya. Dokumentasi ini dibuat sebagai petunjuk               pengoperasian dari sistem kasir self-service ini. Berikut adalah dokumentasi dari pengerjaan:
+    
+        Test Case 1:
+        ![Test 1](https://user-images.githubusercontent.com/112636018/205481356-db789a10-7167-487c-b489-d4a52405e3f5.jpg)
+        
+        
+
