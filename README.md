@@ -1,8 +1,19 @@
 # python-project-pacmann
-Cashier Project – Naufal Muhamad Adzkia 
-Project sangat sederhana ini memiliki tujuan utama yakni membuat sistem kasir self-service. Project ini juga ditujukkan untuk tugas Pacmann – Python.\n
-Disclaimer: saya sadar sebagai sosok yang masih belajar, tentu masih jauh dari kesempurnaan. Jadi, mohon masukan dan sarannya :D.
+Cashier Project – Naufal Muhamad Adzkia | Project sangat sederhana ini memiliki tujuan utama yakni membuat sistem kasir self-service. Project ini juga ditujukkan untuk tugas Pacmann – Python. Disclaimer: saya sadar sebagai sosok yang masih belajar, tentu masih jauh dari kesempurnaan. Jadi, mohon masukan dan sarannya :D.
 
+# Cara Menggunakan
+    1. Jalankan Program
+    2. Definisikan class awal dengan menggunakan atribut (misalkan: transaksi_1 = Transaction())
+    3. Jalankan beberapa metode sebagai berikut:
+        a.  Gunakan metode add_item([<nama_item>, <jumlah_item>, <harga_item>]) untuk menambahkan item ke dalam list transaksi item
+        b.	Gunakan metode berikut untuk mengupdate beberapa hal:
+            i.	metode update_item_name(<nama_item>, <new_nama_item>) untuk mengganti nama item di dalam list transaksi item
+            ii.	metode update_item_qty(<nama_item>, <new_jumlah_item>) untuk mengganti jumlah/kuantitas item di dalam list transaksi item
+            iii.metode update_item_price(<nama_item>, <new_harga_item>) untuk mengganti harga per item di dalam list transaksi item
+        c.	Gunakan metode delete_item(<nama item>) untuk menghapus item beserta keterangannya dari list transaksi item
+        d.	Gunakan metode reset_transaction() untuk mereset seluruh item beserta keterangannya dari list transaksi item
+        e.	Gunakan metode check_order() untuk mengecek keseluruhan transaksi di dalam list transaksi item, beserta input data yang sudah diisi sudah benar atau belum.
+        g.	Gunakan metode total_price() untuk mengecek total harga beserta diskon yang telah didapatkan berdasarkan belanjaan
 # Latar Belakang
     Masalah yang terjadi adalah sistem kasir yang masih manual, dimana masih perlu adanya bantuan penjaga kasir untuk menghitung harga akhir yang akan dibayarkan.
 
