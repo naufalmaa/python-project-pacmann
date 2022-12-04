@@ -1,15 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[441]:
-
-
 import pandas as pd
 from tabulate import tabulate
-
-
-# In[623]:
-
 
 #main
 #buat class
