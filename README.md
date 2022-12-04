@@ -2,7 +2,7 @@
 Cashier Project – Naufal Muhamad Adzkia | Project sangat sederhana ini memiliki tujuan utama yakni membuat sistem kasir self-service. Project ini juga ditujukkan untuk tugas Pacmann – Python. Disclaimer: saya sadar sebagai sosok yang masih belajar, tentu masih jauh dari kesempurnaan. Jadi, mohon masukan dan sarannya :D.
 
 # Cara Menggunakan
-    1. Jalankan Program
+    1. Jalankan Program cashier_project_pacmann_NaufalMA.py
     2. Definisikan class awal dengan menggunakan atribut (misalkan: transaksi_1 = Transaction())
     3. Jalankan beberapa metode sebagai berikut:
         a.  Gunakan metode add_item([<nama_item>, <jumlah_item>, <harga_item>]) untuk menambahkan item ke dalam list transaksi item
@@ -45,7 +45,7 @@ Masalah yang terjadi adalah sistem kasir yang masih manual, dimana masih perlu a
         i.	Membuat metode check_data_transaksi. Metode ini digunakan untuk mengecek data apa saja yang sudah masuk ke dalam list transaksi item.
 
 # Test Case
-Tentunya, program ini telah harus diujicoba dan dievaluasi untuk bisa dioperasikan dengan baik oleh customernya. Dokumentasi ini dibuat sebagai petunjuk               pengoperasian dari sistem kasir self-service ini. Berikut adalah dokumentasi dari pengerjaan:
+Tentunya, program ini telah harus diujicoba dan dievaluasi untuk bisa dioperasikan dengan baik oleh customernya. Dokumentasi ini dibuat sebagai petunjuk               pengoperasian dari sistem kasir self-service ini. Berikut adalah dokumentasi dari pengerjaan (Demonstrasi pekerjaan lebih lengkap terdapat di file cashier_project_pacmann_NaufalMA.ipynb). :
     
  Test Case 1:
  ![Test 1](https://user-images.githubusercontent.com/112636018/205481356-db789a10-7167-487c-b489-d4a52405e3f5.jpg)
