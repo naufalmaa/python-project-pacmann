@@ -1,12 +1,12 @@
 # python-project-pacmann
-Cashier Project – Naufal Muhamad Adzkia\n
+Cashier Project – Naufal Muhamad Adzkia
 Project sangat sederhana ini memiliki tujuan utama yakni membuat sistem kasir self-service. Project ini juga ditujukkan untuk tugas Pacmann – Python.\n
 Disclaimer: saya sadar sebagai sosok yang masih belajar, tentu masih jauh dari kesempurnaan. Jadi, mohon masukan dan sarannya :D.
 
-    1.	Latar Belakang
+# Latar Belakang
     Masalah yang terjadi adalah sistem kasir yang masih manual, dimana masih perlu adanya bantuan penjaga kasir untuk menghitung harga akhir yang akan dibayarkan.
 
-    2.	Objectives
+# Objectives
     Tujuan utama dari program ini adalah untuk membuat sistem kasir self-service. Kemudian, berikut adalah rincian dari objectives yang harus dicapai:
         a.	Membuat transaksi masing-masing per customer
         b.	Memasukkan nama item, jumlah item, dan harga item ke dalam list transaksi item
@@ -16,7 +16,7 @@ Disclaimer: saya sadar sebagai sosok yang masih belajar, tentu masih jauh dari k
         f.	Mengecek orderan yang sudah ditambahkan ke dalam list transaksi item
         g.	Menghitung harga total serta harga total setelah diskon
 
-    3.	Fitur
+# Fitur
     Programming dalam python dilakukan untuk menjawab tujuan di atas. Adapula beberapa fitur yang dapat digunakan dalam program ini untuk membantu pengoperasian sistem kasir self-service ini.
         a.	Membuat class Transaction() yang kemudian dapat diakses dengan memasukkan transaksi_n = Transaction(). Kemudian, diberikan metode untuk inisialisasi list               awal dengan atribut data_transaksi.
         b.	Membuat metode add_item([<nama_item>, <jumlah_item>, <harga_item>]). Fungsi yang digunakan berupa .append ke dalam list data_transaksi.
@@ -33,5 +33,5 @@ Disclaimer: saya sadar sebagai sosok yang masih belajar, tentu masih jauh dari k
         h.	Membuat metode index_transaksi. Fungsi yang digunakan adalah looping for untuk determinasi index yang tersimpan ke dalam list transaksi item.
         i.	Membuat metode check_data_transaksi. Metode ini digunakan untuk mengecek data apa saja yang sudah masuk ke dalam list transaksi item.
 
-    4.	Test Case
+# Test Case
     Tentunya, program ini telah harus diujicoba dan dievaluasi untuk bisa dioperasikan dengan baik oleh customernya. Dokumentasi ini dibuat sebagai petunjuk               pengoperasian dari sistem kasir self-service ini. Berikut adalah dokumentasi dari pengerjaan:
