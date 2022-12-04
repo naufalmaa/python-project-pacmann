@@ -1,5 +1,5 @@
 # python-project-pacmann
-Cashier Project – Naufal Muhamad Adzkia
+Cashier Project – Naufal Muhamad Adzkia 
 Project sangat sederhana ini memiliki tujuan utama yakni membuat sistem kasir self-service. Project ini juga ditujukkan untuk tugas Pacmann – Python.\n
 Disclaimer: saya sadar sebagai sosok yang masih belajar, tentu masih jauh dari kesempurnaan. Jadi, mohon masukan dan sarannya :D.
 
