@@ -34,10 +34,26 @@ Disclaimer: saya sadar sebagai sosok yang masih belajar, tentu masih jauh dari k
         i.	Membuat metode check_data_transaksi. Metode ini digunakan untuk mengecek data apa saja yang sudah masuk ke dalam list transaksi item.
 
 # Test Case
-    Tentunya, program ini telah harus diujicoba dan dievaluasi untuk bisa dioperasikan dengan baik oleh customernya. Dokumentasi ini dibuat sebagai petunjuk               pengoperasian dari sistem kasir self-service ini. Berikut adalah dokumentasi dari pengerjaan:
+Tentunya, program ini telah harus diujicoba dan dievaluasi untuk bisa dioperasikan dengan baik oleh customernya. Dokumentasi ini dibuat sebagai petunjuk               pengoperasian dari sistem kasir self-service ini. Berikut adalah dokumentasi dari pengerjaan:
     
-        Test Case 1:
-        ![Test 1](https://user-images.githubusercontent.com/112636018/205481356-db789a10-7167-487c-b489-d4a52405e3f5.jpg)
+ Test Case 1:
+ ![Test 1](https://user-images.githubusercontent.com/112636018/205481356-db789a10-7167-487c-b489-d4a52405e3f5.jpg)
+ 
+ Test Case 2:
+ ![Test 2](https://user-images.githubusercontent.com/112636018/205481400-43d1049e-b814-452b-9084-8a8fd0047a87.jpg)
+
+ Test Case 3:
+ ![Test 3](https://user-images.githubusercontent.com/112636018/205481404-8b080aa7-0e56-4a11-a1bc-ea2da1c7b9e5.jpg)
+
+ Test Case 4:
+ ![Test 4](https://user-images.githubusercontent.com/112636018/205481405-28cc111b-cc15-4035-83c0-0c92022f3a76.jpg)
+
+ Test Case 5:
+ ![Test 5](https://user-images.githubusercontent.com/112636018/205481406-f0cf0094-a25c-43bb-b5fe-4662e3e27428.jpg)
+
+ Test Case 6:
+ ![Test 6](https://user-images.githubusercontent.com/112636018/205481410-536430c1-713f-4f32-b0b2-d7c822f4b348.jpg)
+
         
         
 
